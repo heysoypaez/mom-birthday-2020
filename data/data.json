@@ -1,0 +1,88 @@
+{
+  "data": {
+    "mountains": [
+      {
+        "title": "Selfie",
+        "elevation": 6190,
+        "image": "./img/mami-y-yo-selfie.jpg"
+      },
+      {
+        "title": "Con Frio Parejo",
+        "elevation": 4401,
+        "image": "./img/mami-amanda-y-yo.jpg"
+      },
+      {
+        "title": "Sobreviviendo de nuevo en Lord Cochrane",
+        "elevation": 6190,
+        "image": "img/mami-amanda-y-yo-lord-cochrane.jpg"
+      },
+      {
+        "title": "La noche de las luces (creo)",
+        "elevation": 4401,
+        "image": "img/mami-betsabet-soto-y-amanda.jpg"
+      },
+      {
+        "title": "Cuando Jonathan se graduó",
+        "elevation": 6190,
+        "image": "img/mami-betsabet-soto-y-yo.jpg"
+      },
+      {
+        "title": "Que vivan las hallacas",
+        "elevation": 4401,
+        "image": "img/mami-betsabet-soto-cocinando-hallaca.jpg"
+      },
+      {
+        "title": "Mami en el colegio",
+        "elevation": 6190,
+        "image": "img/mami-en-el-colegio.jpg"
+      },
+      {
+        "title": "En Lord Cochrane",
+        "elevation": 4401,
+        "image": "img/mami-y-yo-lord-cochrane.jpg"
+      }
+    ],
+    "music": [
+      {
+        "title": "Selfie",
+        "elevation": 6190,
+        "image": "./img/mami-y-yo-selfie.jpg"
+      },
+      {
+        "title": "Con Frio Parejo",
+        "elevation": 4401,
+        "image": "./img/mami-amanda-y-yo.jpg"
+      },
+      {
+        "title": "Sobreviviendo de nuevo en Lord Cochrane",
+        "elevation": 6190,
+        "image": "img/mami-amanda-y-yo-lord-cochrane.jpg"
+      },
+      {
+        "title": "La noche de las luces (creo)",
+        "elevation": 4401,
+        "image": "img/mami-betsabet-soto-y-amanda.jpg"
+      },
+      {
+        "title": "Cuando Jonathan se graduó",
+        "elevation": 6190,
+        "image": "img/mami-betsabet-soto-y-yo.jpg"
+      },
+      {
+        "title": "Que vivan las hallacas",
+        "elevation": 4401,
+        "image": "img/mami-betsabet-soto-cocinando-hallaca.jpg"
+      },
+      {
+        "title": "Mami en el colegio",
+        "elevation": 6190,
+        "image": "img/mami-en-el-colegio.jpg"
+      },
+      {
+        "title": "En Lord Cochrane",
+        "elevation": 4401,
+        "image": "img/mami-y-yo-lord-cochrane.jpg"
+      }
+    ]
+  }
+}
