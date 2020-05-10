@@ -22,14 +22,15 @@ const Layout = ({ children }) => (
           title={data.site.siteMetadata.title}
           meta={[
             { name: 'description', content: 'Mountains' },
-            { name: 'keywords', content: 'mountains, tailwind, gatsby, graphcms, graphql' },
+            {
+              name: 'keywords',
+              content: 'mountains, tailwind, gatsby, graphcms, graphql',
+            },
           ]}
         >
           <html lang="en" />
         </Helmet>
-        <div className="slider">
-          {children}
-        </div>
+        <div className="slider">{children}</div>
       </>
     )}
   />

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby and GraphCMS',
   },
-  pathPrefix: "/gatsby-graphcms-tailwindcss-example",
+  pathPrefix: '/gatsby-graphcms-tailwindcss-example',
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-postcss',
@@ -15,7 +15,7 @@ module.exports = {
         icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
       },
     },
-        {
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `src`,
@@ -23,11 +23,11 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
-     {
+    {
       resolve: `gatsby-transformer-json`,
       options: {
         typeName: `json`, // a fixed string
       },
-    }
+    },
   ],
 }
