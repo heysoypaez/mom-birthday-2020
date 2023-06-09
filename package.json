@@ -8,7 +8,7 @@
     "babel-plugin-tailwind-components": "^0.5.5",
     "emotion": "^9.2.9",
     "emotion-server": "^9.2.9",
-    "gatsby": "^2.0.0",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-emotion": "^2.0.5",
     "gatsby-plugin-manifest": "^2.0.2",
     "gatsby-plugin-offline": "^2.0.5",
